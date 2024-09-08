@@ -7,3 +7,5 @@ Minimax Algorithm: The computer uses the Minimax algorithm to make optimal moves
 Choose Side: Players can select to play as 'X' or 'O'. The computer will always play as the opponent.
 Restart Game: A restart button allows players to reset the game and start a new session.
 Dark Mode: A toggle switch to switch between light and dark themes for better visual comfort.
+
+Check out the deployed link here : https://aryanlakhanpal.github.io/My-Tik-Tak-Toe/
